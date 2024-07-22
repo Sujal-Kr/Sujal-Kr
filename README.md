@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **React,Java**
+- 💬 Ask me about **React,Java,Javascript,express,MongoDB,Node**
 
 - 📫 How to reach me **sujalkr829@gmail.com**
 
