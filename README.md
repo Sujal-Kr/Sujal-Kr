@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ScholarHire**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Aws**
 
 - 💬 Ask me about **React,Java,Javascript,express,MongoDB,Node**
 
