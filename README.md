@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Aws**
 
-- 💬 Ask me about **React,Java,Javascript,express,MongoDB,Node**
+- 💬 Ask me about **MERN and Problem Solving**
 
 - 📫 How to reach me **sujalkr829@gmail.com**
 
