@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sujalkr829@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tEGUR_Xy5dPlU7qkcnNy4ESkvekwCDOV/view?usp=drive_link](https://github.com/Sujal-Kr/Resume/blob/main/Sujal_resume.pdf)
+- 📄 Know about my experiences [https://github.com/Sujal-Kr/Resume/blob/main/Sujal_resume.pdf](https://github.com/Sujal-Kr/Resume/blob/main/Sujal_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
