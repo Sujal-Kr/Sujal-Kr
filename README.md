@@ -1,301 +1,181 @@
-<div align="center">
-
-<!-- Cyberpunk Neon Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=SUJAL%20KUMAR&fontSize=70&color=0:8A2BE2,50:00FF41,100:FF1493&stroke=00FF41&strokeWidth=2" />
-
-</div>
-
-<div align="center">
-
-<!-- Glitch Effect Title -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%3C+CODE+%2F%3E;ARCHITECT+%7C+INNOVATOR+%7C+BUILDER;%7B+MERN+STACK+WIZARD+%7D" alt="Typing SVG" />
+<!-- Elegant Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sujal+Kumar;Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver+%26+Builder" alt="Typing SVG" />
 </h1>
 
-<!-- Matrix Style Badges -->
-<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00FF41?style=for-the-badge&logo=matrix&logoColor=black" />
-<img src="https://img.shields.io/badge/LOCATION-INDIA_🇮🇳-FF1493?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LEARNING-AWS_CLOUD-8A2BE2?style=for-the-badge&logo=amazon-aws" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujal-kr&label=Profile%20views&color=6c63ff&style=flat-square" alt="sujal-kr" />
+  <img src="https://img.shields.io/github/followers/sujal-kr?label=Followers&style=flat-square&color=6c63ff" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-6c63ff?style=flat-square" alt="open to work" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <em>Building digital experiences that matter • Based in India 🇮🇳</em>
+</p>
 
-<!-- Animated Stats Badges -->
-<img src="https://komarev.com/ghpvc/?username=sujal-kr&style=for-the-badge&color=blueviolet&label=VISITORS" />
-<img src="https://img.shields.io/github/followers/sujal-kr?style=for-the-badge&color=blueviolet&labelColor=000000&logo=github" />
-<img src="https://img.shields.io/github/stars/sujal-kr?style=for-the-badge&color=blueviolet&labelColor=000000&logo=github" />
-
-</div>
+---
 
 <br/>
 
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<br/>
+### 👨‍💻 About Me
 
-<div align="center">
-
-## ⚡ SYSTEM.INITIALIZE()
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Sujal Kumar"
-        self.role = "Full Stack Alchemist"
-        self.language_spoken = ["en_US", "hi_IN"]
-        self.current_project = "ScholarHire"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something epic together.")
-        
-    def get_daily_knowledge(self):
-        return {
-            "languages": ["JavaScript", "TypeScript", "Java", "Python"],
-            "frameworks": ["React", "Next.js", "Node.js", "Express"],
-            "databases": ["MongoDB", "PostgreSQL", "Redis", "MySQL"],
-            "currently_learning": ["AWS", "System Design", "Microservices"],
-            "hobbies": ["Solving DSA", "Building Cool Stuff", "Breaking Prod 😅"]
-        }
-
-me = Developer()
-me.say_hi()
+```typescript
+const sujal: Developer = {
+  location: "India",
+  currentProject: "ScholarHire",
+  learning: ["AWS", "System Design", "Microservices"],
+  expertise: ["MERN Stack", "DSA", "Problem Solving"],
+  askMeAbout: ["Web Dev", "Tech", "DSA", "Coffee ☕"],
+  funFact: "I debug faster with music 🎵"
+};
 ```
 
-</div>
+- 🚀 Currently working on **ScholarHire**
+- 🌱 Learning **AWS Cloud Architecture**
+- 💡 Open to **collaborating** on interesting projects
+- 📧 Reach me at **sujalkr829@gmail.com**
+- 📄 Check my [Resume](https://github.com/Sujal-Kr/Resume/blob/main/Sujal_resume.pdf)
 
+<br clear="both"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
 <br/>
 
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+</details>
+
+<details open>
+<summary><b>Frontend Development</b></summary>
 <br/>
 
-<div align="center">
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 🎮 TECH STACK.EXE
+</details>
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎨 Frontend Universe
-<div align="center">  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### ⚙️ Backend Arsenal
-<div align="center">  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### 🛠️ DevOps & Tools
-<div align="center">  
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
+<details open>
+<summary><b>Backend Development</b></summary>
 <br/>
 
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+</details>
+
+<details open>
+<summary><b>DevOps & Tools</b></summary>
 <br/>
 
-<div align="center">
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 ANALYTICS.DASHBOARD()
+</details>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-kr&bg_color=000000&color=00ff41&line=ff1493&point=8a2be2&area=true&hide_border=true" />
+---
 
-<br/>
+### 📊 GitHub Statistics
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=sujal-kr&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=ff1493&text_color=ffffff&ring_color=8a2be2" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-kr&layout=donut&theme=synthwave&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sujal-kr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-kr&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6c63ff&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-kr&theme=neon-dark&hide_border=true&background=000000&stroke=00ff41&ring=ff1493&fire=8a2be2&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-kr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6c63ff&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-kr&bg_color=1a1b27&color=6c63ff&line=6c63ff&point=c9d1d9&area=true&hide_border=true" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujal-kr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujal-kr&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+---
 
-</div>
+### 🏆 Coding Profiles
 
-<br/>
+<p align="center">
+  <a href="https://leetcode.com/sujal-kr">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/sujalkr7">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
+  </a>
+  <a href="https://www.hackerrank.com/sunnykumarcms45">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
 
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br/>
+### 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/sujal-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/_noya.san">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:sujalkr829@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Sujal-Kr/Resume/blob/main/Sujal_resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
-## 🎯 CODING.ARENA()
+---
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://leetcode.com/sujal-kr">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/PROBLEMS-500+-00FF41?style=for-the-badge" />
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://auth.geeksforgeeks.org/user/sujalkr7">
-<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/RANK-COMPETITIVE-FF1493?style=for-the-badge" />
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.hackerrank.com/sunnykumarcms45">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/STARS-5⭐-8A2BE2?style=for-the-badge" />
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/sujal-kr">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/REPOS-ACTIVE-00FF41?style=for-the-badge" />
-</a>
-</td>
-</tr>
-</table>
+### 📈 Contribution Graph
 
-</div>
+![Snake animation](https://github.com/sujal-kr/sujal-kr/blob/output/github-contribution-grid-snake.svg)
 
-<br/>
+---
 
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 💭 Random Dev Quote
 
-<br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-<div align="center">
+---
 
-## 🌐 CONNECT.NETWORK()
+### ☕ Support My Work
 
-<a href="https://linkedin.com/in/sujal-kumar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/_noya.san">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:sujalkr829@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Sujal-Kr/Resume/blob/main/Sujal_resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-</a>
-<a href="https://github.com/sujal-kr">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
+<p align="center">
+  If you like my work, consider buying me a coffee!<br/><br/>
+  <a href="https://www.buymeacoffee.com/sujalkr">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
-### 📧 DIRECT.MESSAGE()
-**sujalkr829@gmail.com**
+---
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
-<br/>
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## 💬 RANDOM.QUOTE()
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-
-</div>
-
-<br/>
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## 🐍 CONTRIBUTION.MATRIX()
-
-![Snake animation](https://github.com/sujal-kr/sujal-kr/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-### 💭 WISDOM.LOG()
-
-```javascript
-while(alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-
-// "First, solve the problem. Then, write the code." - John Johnson
-```
-
-### ⚡ FUN.FACT()
-> When I wrote my first "Hello World", the computer said "Hello" back. <br/>
-> We've been best friends ever since. 🤝💻
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&section=footer" />
-
-<h3>⚡ POWERED BY CAFFEINE & CURIOSITY ⚡</h3>
-
-<img src="https://img.shields.io/badge/MADE_WITH-❤️_IN_INDIA-FF1493?style=for-the-badge" />
-
-</div>
+<h4 align="center">⭐ From <a href="https://github.com/sujal-kr">Sujal Kumar</a> | Made with ❤️ and ☕</h4>
