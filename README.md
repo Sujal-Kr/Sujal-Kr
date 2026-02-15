@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sujal%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Full+Stack+Developer;MERN+Specialist;Problem+Solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&multiline=true&repeat=false&width=435&height=100&lines=Full+Stack+Developer;MERN+Specialist;Problem+Solver" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sujal-kr&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views" />
