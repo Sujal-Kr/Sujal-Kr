@@ -1,0 +1,78 @@
+# 🐍 Snake Animation Setup Instructions
+
+Follow these steps to activate the contribution snake animation on your GitHub profile:
+
+## Step 1: Create the Workflow Directory
+
+In your **sujal-kr** repository (your profile repository), create this folder structure:
+```
+.github/
+  └── workflows/
+      └── snake.yml
+```
+
+## Step 2: Add the Workflow File
+
+Copy the contents of the `snake.yml` file I provided into `.github/workflows/snake.yml` in your profile repository.
+
+## Step 3: Enable GitHub Actions
+
+1. Go to your profile repository: `https://github.com/sujal-kr/sujal-kr`
+2. Click on **Settings** tab
+3. In the left sidebar, click **Actions** → **General**
+4. Under "Workflow permissions", select:
+   - ✅ **Read and write permissions**
+5. Click **Save**
+
+## Step 4: Create the Repository (if it doesn't exist)
+
+Your profile README repository should be named exactly: **sujal-kr** (same as your username)
+
+If it doesn't exist:
+1. Go to GitHub and create a new repository
+2. Name it: `sujal-kr`
+3. Make it **Public**
+4. Check "Add a README file"
+5. Create the repository
+
+## Step 5: Add the README
+
+Replace the contents of your README.md with the new redesigned version I created.
+
+## Step 6: Trigger the Action
+
+1. Go to **Actions** tab in your profile repository
+2. Click on "Generate Snake" workflow
+3. Click **Run workflow** → **Run workflow**
+4. Wait 1-2 minutes for it to complete
+
+## Step 7: Verify
+
+After the action completes successfully:
+- A new branch called `output` will be created
+- The snake animation will be generated
+- Your README will show the animated snake!
+
+## Troubleshooting
+
+**If the snake doesn't show:**
+- Make sure the repository name matches your username exactly
+- Check that GitHub Actions completed successfully
+- Verify the `output` branch was created
+- Wait a few minutes and refresh the page
+
+**If Actions fail:**
+- Go to Settings → Actions → General
+- Ensure "Read and write permissions" is enabled
+- Re-run the workflow
+
+## Alternative: Manual Trigger Schedule
+
+The snake updates automatically:
+- Every 12 hours (scheduled)
+- On every push to main branch
+- Can be triggered manually from Actions tab
+
+---
+
+**That's it!** Your profile will now have an awesome animated snake eating your contributions! 🎉
