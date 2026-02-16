@@ -83,14 +83,14 @@ hero.assemble();
 <br clear="both"/>
 
 ### 🎯 **CURRENT MISSION**
-- 🚀 Leading the **ScholarHire** initiative
+- 🚀 Leading the **Devops** initiative
 - ⚡ Training in the ancient arts of **AWS Cloud**
 - 🛡️ Protecting the codebase from bugs and vulnerabilities
 - 💼 Open for **Avenger-level collaborations**
 
 ### 📡 **CONTACT FREQUENCIES**
 - 📧 Emergency Hotline: **sujalkr829@gmail.com**
-- 📄 Hero Dossier: [View Classified Files](https://github.com/Sujal-Kr/Resume/blob/main/Sujal_resume.pdf)
+- 📄 Hero Dossier: [View Classified Files](https://github.com/Sujal-Kr/Resume/blob/main/Sujal_Resume.pdf)
 
 <br/>
 
@@ -289,7 +289,7 @@ hero.assemble();
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 <br/>
-<img src="https://img.shields.io/badge/Solved-500+-ED1D24?style=flat-square&logo=leetcode" />
+<img src="https://img.shields.io/badge/Solved-100+-ED1D24?style=flat-square&logo=leetcode" />
 </td>
 
 <td align="center" width="25%">
@@ -339,7 +339,7 @@ hero.assemble();
 
 ## 🌐 JOIN THE AVENGERS
 
-<a href="https://linkedin.com/in/sujal-kumar">
+<a href="https://linkedin.com/in/sujalkumar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/_noya.san">
@@ -348,7 +348,7 @@ hero.assemble();
 <a href="mailto:sujalkr829@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/Sujal-Kr/Resume/blob/main/Sujal_resume.pdf">
+<a href="https://github.com/Sujal-Kr/Resume/blob/main/Sujal_Resume.pdf">
 <img src="https://img.shields.io/badge/Hero_Dossier-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
 </a>
 <a href="https://github.com/sujal-kr">
