@@ -38,7 +38,7 @@
 
 </div>
 
-<img align="center"  alt="Iron Man Coding" width="80%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="center"  alt="Iron Man Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ```javascript
 class Hero {
@@ -265,7 +265,7 @@ hero.assemble();
 
 ### 🏆 HALL OF ARMOR (Achievements)
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujal-kr&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Reviews,Stars,Followers,Issues" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sujal-Kr&theme=radical&no-frame=true&margin-w=10&row=1" width="100%"/>
 
 </div>
 
